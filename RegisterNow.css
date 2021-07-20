@@ -1,0 +1,44 @@
+
+#container{
+    border-radius: 20px;
+    width: 400px;
+    background-color: cadetblue;
+    border: 3px solid #06010c;
+    margin:5px;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: bold;
+    margin:auto;
+    margin-top: 150px;
+    color: rgb(7, 7, 7);
+}
+.sub{
+    margin: 10px;
+    background-color: rgb(50, 243, 98);
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+input 
+{
+    
+    margin: 5px;
+    padding:10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 2px;
+    line-height: 1.8em;
+}
+#img{
+    margin: 5px;
+}
+
+    body { 
+        background-image: url('bg-image.jpg');
+    background-color: royalblue;
+        background-repeat: no-repeat;
+
+}

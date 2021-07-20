@@ -1,0 +1,95 @@
+header{
+    width: 1325.5px;
+    margin-top: 0px;
+    height: 280px;
+ 
+    background: url('header2.jpg');
+        background-repeat: no-repeat;
+        margin-left: auto;
+    background-size: contain;
+        margin-right: auto;    
+       }
+#h2{
+
+        background-color: black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:white;
+        text-align: center      ;  
+        margin-top: 420px;
+    }
+
+   
+
+body{
+        background-image: url('background-image.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        
+    }
+p{  
+        margin-left: auto;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        color: white;
+        text-decoration-color:#fcf0f0;
+        font-size: 20px;
+        background-color:rgb(36, 21, 21);
+    }
+    div{
+        background-size: cover;
+    }
+    /*nav bar button property*/
+.but{ 
+    float: left;
+    margin-top: 240px;
+    padding: 5px;
+    border-radius: 8px;
+    line-height: 1.6em;
+    margin-right: 10px;
+    display: inline;
+    float: left;
+}   
+
+button{
+        border: none;
+        background-color:rgb(59, 78, 78);
+    }
+a{
+        color: bisque;
+        font-weight: bold;
+        text-decoration: none;
+        line-height: 1.5em;
+        
+    }
+ul{
+    
+        list-style-type: none;
+    }
+#home-icon{
+    position: absolute;
+margin-left: 10px;
+margin-top: 10px;
+       
+    
+    }
+
+img{
+        border-radius: 20px;
+    } 
+/*sign-in and sign-up button property*/
+.butt{  
+        margin: 5px;
+        margin-right: 10px;
+        border-radius: 7px;
+        padding: 8px;
+        float: right;
+        background-color: cadetblue;
+        
+}
+.sign-up{
+    border-radius: 5px;
+    float: right;
+    margin: 10px;
+    padding:5px;
+}

@@ -1,0 +1,40 @@
+#sign-in{
+    border:2px solid black;
+    background-color: cadetblue;
+    text-align: center;
+    width: 400px;    
+    margin-top: 150px;
+    margin-left: 400px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+input{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;    
+    margin: 5px;
+    line-height: 1.8em;
+    border-radius: 5px;
+    background-color: rgb(241, 245, 248);
+}
+.sub{
+    margin: 10px;
+    color:black;
+    background-color: rgb(40, 240, 57);
+padding-left: 20px;
+padding-right: 20px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-image: url('bg-image.jpg');
+    background-color: royalblue;
+
+}
+#img-up
+{
+    margin: 10px;
+}
+a{
+    text-decoration-line: none;
+    font-family: 'Ubuntu', sans-serif;
+}
