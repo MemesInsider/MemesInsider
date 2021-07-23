@@ -12,8 +12,8 @@ body{
     align-content: center;
     float: left;
     overflow:visible;
-    margin-top: 50px;
-    margin-left: 400px;
+    margin-top: 25px;
+    margin-left: 250px;
     background-color: rgb(60, 55, 70);
     
 
@@ -58,7 +58,7 @@ button:hover{
     overflow: hidden;
     width: auto;
     margin-left: 800px;
- margin-top: 48px;
+ margin-top: 40px;
     border-radius: 5px;
     padding: 10px;
     width: 400px;
@@ -70,15 +70,51 @@ address{
     font-size: 20px;
     font-weight: bold;
 }
-#logo{
-    margin: auto;
-    align-items: center;
-    
-
-}
 textarea{
 
 }
 h3{
     text-decoration-line: underline;
+}
+.img-logo{
+    display: inline;
+    margin-left: 250px;
+    margin-bottom: auto ;
+    height: auto;
+    height: auto;
+    margin-bottom: 25px;
+
+}
+#img-logo{
+margin-left: 50px;
+margin-top: 20px;
+}
+#ul-li{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -120px;
+}
+li{
+    display: inline;
+}
+.img-logo:hover{
+    background-color: rgb(167, 237, 238);
+    border-radius: 100%;
+    animation-name: rotate;
+    animation-duration: 1s;
+
+}
+@keyframes rotate{
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+    transform: rotate(360deg);
+}
+}
+table{
+    margin-left: auto;
+    margin-top: -100px;
+    margin-right: auto;
+    align-items: center;
 }
