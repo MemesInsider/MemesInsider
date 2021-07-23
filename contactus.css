@@ -1,0 +1,84 @@
+body{
+    background-color: cadetblue;
+}
+#container{
+    display: inline;
+}
+#input-box{
+    border: 3px solid rgb(31, 23, 23);
+    border-radius: 5px;
+    width:auto;
+    height: auto;
+    align-content: center;
+    float: left;
+    overflow:visible;
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color: rgb(60, 55, 70);
+    
+
+
+}
+
+.input-box{
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+input,textarea {
+    
+    color: rgb(240, 238, 235);
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    border: 3px solid rgb(10, 9, 9);
+    border-radius: 5px;
+    line-height: 2em;
+    font-weight:bold;
+    padding: 5px;
+}
+h2{
+    color: rgb(160, 156, 156);
+    margin :20px;
+}
+button{
+    margin-left: 50px;
+line-height: 2em;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: 'ubuntu','sans-serif';
+    margin-left: 115px;    
+}
+button:hover{
+    background-color: rgb(72, 160, 243);
+    
+}
+#contact-us{
+    border: 3px solid rgb(22, 22, 22);
+    overflow: hidden;
+    width: auto;
+    margin-left: 800px;
+ margin-top: 48px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
+    color: rgb(23, 24, 26);
+}
+address{
+    color: rgb(13, 12, 14);
+    line-height: 2em;
+    font-size: 20px;
+    font-weight: bold;
+}
+#logo{
+    margin: auto;
+    align-items: center;
+    
+
+}
+textarea{
+
+}
+h3{
+    text-decoration-line: underline;
+}
