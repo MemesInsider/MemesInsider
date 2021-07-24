@@ -5,6 +5,7 @@
     background-color: cadetblue;
     border: 3px solid #06010c;
     margin:5px;
+    box-sizing:border-box;
     line-height: 1.5;
     text-align: center;
     font-weight: bold;
@@ -22,7 +23,7 @@
 }
 input 
 {
-    
+    width:auto;
     margin: 5px;
     padding:10px;
     font-family: 'Ubuntu', sans-serif;
