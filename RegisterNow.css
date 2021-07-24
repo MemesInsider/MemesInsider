@@ -1,7 +1,7 @@
 
 #container{
     border-radius: 20px;
-    width: 400px;
+    width:40%;
     background-color: cadetblue;
     border: 3px solid #06010c;
     margin:5px;
@@ -9,7 +9,6 @@
     text-align: center;
     font-weight: bold;
     margin:auto;
-    margin-top: 150px;
     color: rgb(7, 7, 7);
 }
 .sub{
