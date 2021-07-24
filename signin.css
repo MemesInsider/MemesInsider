@@ -7,10 +7,12 @@
     border-radius: 10px;
     font-weight: bold;
 }
+
 input{
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;    
     margin: 5px;
+    width:auto;
     line-height: 1.8em;
     border-radius: 5px;
     background-color: rgb(241, 245, 248);
