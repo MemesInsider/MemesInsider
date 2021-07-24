@@ -3,6 +3,7 @@
     background-color: cadetblue;
     text-align: center;
     width:40%;    
+    box-sizing:border-box;
     margin:auto;
     border-radius: 10px;
     font-weight: bold;
