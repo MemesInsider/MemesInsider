@@ -1,16 +1,13 @@
-### Hi there 👋
+# Memes Insider
 
-<!--
-**MemesInsider/MemesInsider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Visit us at: https://memesinsider.netlify.app/
 
-Here are some ideas to get you started:
+हम "विश्व का सबसे बड़ा मेम प्रतियोगिता मंच" बनने के लिए अग्रसार है | 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The to be "World's Largest Meme Competition Platform" 🐕
+
+### Contribute
+
+The idea created by [Abhay Chaurasiya](https://github.com/abhaychaurasiya97) out in the wild to get memes to a unified platform where memers contribute and interact, and ocassionally have competitions.
+
+The code is kept in Open Source, to make it a community effort by us all ❤️.
